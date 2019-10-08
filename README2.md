@@ -9,7 +9,7 @@
 - English (Default)
 - Chinese
 
-Special thanks to https://github.com/xilibi2003/Upchain-wallet
+Special thanks to https://github.com/xilibi2008/Upchain-wallet
 
 
 
